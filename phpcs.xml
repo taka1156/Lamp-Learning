@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ruleset name="Custom Standard">
+  <rule ref="PSR12">
+    <!-- "PSR-1,PSR-2" の中で除外するルール -->
+  </rule>
+  <!-- 追加するルール -->
+  
+  <!-- 除外するファイル・ディレクトリ -->
+  <exclude-pattern>vendor/</exclude-pattern>
+</ruleset>

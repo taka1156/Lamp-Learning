@@ -1,0 +1,16 @@
+{
+    "name": "taka/docker-lamp",
+    "description": "php and MySQL Learning",
+    "type": "project",
+    "authors": [
+        {
+            "name": "taka",
+            "email": "taka05061@gamil.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*",
+        "friendsofphp/php-cs-fixer": "^2.16"
+    }
+}

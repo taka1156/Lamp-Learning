@@ -1,0 +1,8 @@
+{
+    "phpcs.executablePath": "./vendor/bin/phpcs.bat",
+    "phpcs.standard": "phpcs.xml",
+    "phpcbf.executablePath": "./vendor/bin/phpcbf.bat",
+    "phpcbf.standard": "phpcs.xml",
+    "phpcbf.onsave": true,
+    "files.eol": "\n"
+}
