@@ -9,6 +9,8 @@
 - phpcbf
 - php cs fixer
 
+※ Macに変えてから整備してないので時間がある時に修正
+
 **composer(最低限のもの)**
 - コマンド<br>
 　管理開始　`composer init`<br>
@@ -41,7 +43,7 @@
 ※`Encountered errors while bringing up the project`が出たらDocker関連のタスクをkillする<br>
 ## 学習方針
 #### 最終目標:
-PHPとMySQLの基本操作を学びAPIを作る
+PHPとMySQLの基本操作を学ぶ
 <span style="color: red;">オブジェクト</span>とMySQLの<span style="color: red;">操作関連(PDO)</span>、<span style="color: red;">連想配列</span>は重点的に学ぶ。
 
 #### 関連情報:
